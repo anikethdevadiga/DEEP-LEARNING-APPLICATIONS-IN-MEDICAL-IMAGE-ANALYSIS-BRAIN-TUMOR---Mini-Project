@@ -1,0 +1,2 @@
+python BrainTumor.py
+pause
